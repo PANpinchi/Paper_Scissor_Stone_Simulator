@@ -31,5 +31,10 @@ This is a rock paper scissors simulator that simulates the movement and interact
 5. When only one type of element (rock, scissors, or paper) remains, the simulator will stop and display the final result.
 
 ## Demo
-
+### Demo 1 (Paper Win)
+![image](https://github.com/PANpinchi/Paper_Scissor_Stone_Simulator/blob/main/results/Demo_1.gif)
+### Demo 2 (Stone Win)
+![image](https://github.com/PANpinchi/Paper_Scissor_Stone_Simulator/blob/main/results/Demo_2.gif)
+### Demo 3 (Scissor Win)
+![image](https://github.com/PANpinchi/Paper_Scissor_Stone_Simulator/blob/main/results/Demo_3.gif)
 
