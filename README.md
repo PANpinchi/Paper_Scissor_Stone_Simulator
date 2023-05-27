@@ -1,4 +1,4 @@
-# Rock Paper Scissors Simulator
+# Paper Scissor Stone Simulator
 This is a rock paper scissors simulator that simulates the movement and interaction of rocks, papers, and scissors on a map until only one type of element remains.
 
 ## Features
